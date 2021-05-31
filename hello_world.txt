@@ -1,3 +1,4 @@
-Dit is een tekst bestand met de tekst
+/*Dit is een tekst bestand met de tekst
+*/
+print "HELLO WORLD"
 
-HELLO WORLD
